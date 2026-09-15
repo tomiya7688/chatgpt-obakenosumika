@@ -2,6 +2,17 @@
 
 「まる」と「かどか」という2匹のおばけの世界観と、AIに2匹を演じてもらうための会話用設定です。
 
+## 正本の分担
+
+このプロジェクトでは、**設定とライセンスで正本のリポジトリが異なります。**
+
+- **世界設定・キャラクター設定の正本**: このリポジトリ [`tomiya7688/chatgpt-obakenosumika`](https://github.com/tomiya7688/chatgpt-obakenosumika) の `main` ブランチ
+- **ライセンス・公式配布素材の正本**: [`tomiya7688/Obake_Lisense`](https://github.com/tomiya7688/Obake_Lisense)
+- **ライセンスの正本言語**: 日本語版 [`Obake_Lisense/LICENSE.md`](https://github.com/tomiya7688/Obake_Lisense/blob/main/LICENSE.md)
+- **英語版**: [`Obake_Lisense/LICENSE.en.md`](https://github.com/tomiya7688/Obake_Lisense/blob/main/LICENSE.en.md)（参考訳。相違がある場合は日本語版が優先）
+
+このリポジトリの [`LICENSE.md`](LICENSE.md) はライセンス本文の複製ではなく、正本への案内です。
+
 ## キービジュアル
 
 このリポジトリには、かどか・まるのキービジュアルを同梱しています。
@@ -13,7 +24,7 @@
 
 元の公式素材は [`tomiya7688/Obake_Lisense`](https://github.com/tomiya7688/Obake_Lisense) で公開されています。
 
-同梱している画像・キャラクターデザイン・設定等のおばけ素材は、[`Obake Character License v1.1`](LICENSE.md)（おばけライセンス）に従います。
+同梱している画像・キャラクターデザイン・設定等のおばけ素材は、[`Obake Character License v1.1`](https://github.com/tomiya7688/Obake_Lisense/blob/main/LICENSE.md)（おばけライセンス）に従います。
 
 ## ファイル構成
 
@@ -36,7 +47,7 @@
 - [`CHARACTERS.md`](CHARACTERS.md) — まる・かどかの外見、性格、口調、関係
 - [`assets/Kadoka.png`](assets/Kadoka.png) — かどかのキービジュアル
 - [`assets/Maru.png`](assets/Maru.png) — まるのキービジュアル
-- [`LICENSE.md`](LICENSE.md) — Obake Character License v1.1
+- [`LICENSE.md`](LICENSE.md) — Obake Character License 正本への案内
 - [`chatgpt/PROMPT.md`](chatgpt/PROMPT.md) — ChatGPTで2匹を演じるための指示
 - [`grok/PROMPT.md`](grok/PROMPT.md) — Grokで2匹を演じるための指示
 
@@ -47,6 +58,8 @@
 このリポジトリは固定版ではなく、今後も設定の追加・修正によって更新されます。
 
 **このリポジトリの `main` ブランチにある最新版を「おばけの住処」の正式設定（source of truth）として扱ってください。**
+
+ここでいう source of truth は**世界設定・キャラクター設定について**です。ライセンスの正本は [`tomiya7688/Obake_Lisense`](https://github.com/tomiya7688/Obake_Lisense) にあります。
 
 AIにこのリポジトリのURLを渡して使用している場合、会話開始時には可能な範囲で最新版の `WORLD.md`、`CHARACTERS.md`、各AI用 `PROMPT.md` を確認してください。
 
@@ -185,9 +198,13 @@ AI用プロンプトは、新しい世界設定を作るためではなく、既
 
 ## ライセンス
 
-かどか・まるの画像、キャラクターデザイン、設定その他のおばけ素材は、[`Obake Character License v1.1`](LICENSE.md) の対象です。
+かどか・まるの画像、キャラクターデザイン、設定その他のおばけ素材は、[`Obake Character License v1.1`](https://github.com/tomiya7688/Obake_Lisense/blob/main/LICENSE.md) の対象です。
 
-ライセンスの原本および公式素材は [`tomiya7688/Obake_Lisense`](https://github.com/tomiya7688/Obake_Lisense) を参照してください。
+**ライセンスの正本は [`tomiya7688/Obake_Lisense`](https://github.com/tomiya7688/Obake_Lisense) の日本語版です。**
+
+英語で確認する場合は [`LICENSE.en.md`](https://github.com/tomiya7688/Obake_Lisense/blob/main/LICENSE.en.md) を参照できます。英語版は参考訳であり、日本語版との間に相違がある場合は日本語版が優先されます。
+
+このリポジトリ内の [`LICENSE.md`](LICENSE.md) は、正本への案内のみを掲載しています。
 
 ## 古い `prompts/` ディレクトリについて
 
