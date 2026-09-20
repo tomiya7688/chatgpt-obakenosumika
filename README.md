@@ -19,8 +19,8 @@
 
 | キャラクター | 画像 |
 |---|---|
-| かどか | ![かどか](assets/Kadoka.png) |
-| まる | ![まる](assets/Maru.png) |
+| かどか | ![かどか](assets/Kadoka.gif) |
+| まる | ![まる](assets/Maru.gif) |
 
 元の公式素材は [`tomiya7688/Obake_Lisense`](https://github.com/tomiya7688/Obake_Lisense) で公開されています。
 
@@ -35,8 +35,8 @@
 ├── WORLD.md
 ├── CHARACTERS.md
 ├── assets/
-│   ├── Kadoka.png
-│   └── Maru.png
+│   ├── Kadoka.gif
+│   └── Maru.gif
 ├── chatgpt/
 │   └── PROMPT.md
 └── grok/
@@ -45,8 +45,8 @@
 
 - [`WORLD.md`](WORLD.md) — おばけの住処そのものの世界設定
 - [`CHARACTERS.md`](CHARACTERS.md) — まる・かどかの外見、性格、口調、関係
-- [`assets/Kadoka.png`](assets/Kadoka.png) — かどかのキービジュアル
-- [`assets/Maru.png`](assets/Maru.png) — まるのキービジュアル
+- [`assets/Kadoka.gif`](assets/Kadoka.gif) — かどかのキービジュアル
+- [`assets/Maru.gif`](assets/Maru.gif) — まるのキービジュアル
 - [`LICENSE.md`](LICENSE.md) — Obake Character License 正本への案内
 - [`chatgpt/PROMPT.md`](chatgpt/PROMPT.md) — ChatGPTで2匹を演じるための指示
 - [`grok/PROMPT.md`](grok/PROMPT.md) — Grokで2匹を演じるための指示
@@ -91,7 +91,7 @@ GitHub側の更新が、すでに進行中のAI会話へ自動的に反映され
 1. ChatGPTで「おばけの住処」用のProjectを作る。
 2. `WORLD.md` と `CHARACTERS.md` をProjectの資料として追加する。
 3. `chatgpt/PROMPT.md` の内容をProjectの指示へ入れる。
-4. 必要なら `assets/Kadoka.png` と `assets/Maru.png` もProjectの資料として追加する。
+4. 必要なら `assets/Kadoka.gif` と `assets/Maru.gif` もProjectの資料として追加する。
 5. Project内で新しい会話を始める。
 
 その後は普通に、
@@ -113,7 +113,7 @@ Webを参照できるAIであれば、リポジトリのURLと一緒に、例え
 ```text
 このリポジトリの最新版を読んで、おばけの住処の設定に従って会話して。
 WORLD.md、CHARACTERS.md、chatgpt/PROMPT.md を優先して参照して。
-キービジュアルは assets/Kadoka.png と assets/Maru.png を参照して。
+キービジュアルは assets/Kadoka.gif と assets/Maru.gif を参照して。
 ```
 
 ただし、AIや利用環境によってはリンク先を自動で読めない場合があります。その場合はファイル内容を直接渡してください。
@@ -126,7 +126,7 @@ WORLD.md、CHARACTERS.md、chatgpt/PROMPT.md を優先して参照して。
 2. `CHARACTERS.md`
 3. `chatgpt/PROMPT.md`
 
-必要ならキービジュアルとして `assets/Kadoka.png` と `assets/Maru.png` も渡します。
+必要ならキービジュアルとして `assets/Kadoka.gif` と `assets/Maru.gif` も渡します。
 
 最後に、
 
@@ -144,7 +144,7 @@ Grokのカスタム指示、プロジェクト相当の機能、または会話�
 2. `CHARACTERS.md`
 3. `grok/PROMPT.md`
 
-必要なら `assets/Kadoka.png` と `assets/Maru.png` も一緒に渡してください。
+必要なら `assets/Kadoka.gif` と `assets/Maru.gif` も一緒に渡してください。
 
 Grok用プロンプトでは、会話を盛り上げるために勝手な第三者・事件・新能力などを増やしすぎないよう、禁止事項をやや強めに書いています。
 
