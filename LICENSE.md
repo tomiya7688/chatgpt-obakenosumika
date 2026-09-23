@@ -1,6 +1,6 @@
 # License Notice
 
-このリポジトリに含まれる「かどか（Kadoka）」「まる（maru）」の画像、キャラクターデザイン、設定その他のおばけ素材は、**Obake Character License v1.1** の対象です。
+このリポジトリに含まれる「かどか（Kadoka）」「まる（maru）」の画像、キャラクターデザイン、設定その他のおばけ素材は、**Obake Character License v1.2** の対象です。
 
 ## ライセンスの正本
 
