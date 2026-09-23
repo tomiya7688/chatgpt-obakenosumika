@@ -24,7 +24,7 @@
 
 元の公式素材は [`tomiya7688/Obake_Lisense`](https://github.com/tomiya7688/Obake_Lisense) で公開されています。
 
-同梱している画像・キャラクターデザイン・設定等のおばけ素材は、[`Obake Character License v1.1`](https://github.com/tomiya7688/Obake_Lisense/blob/main/LICENSE.md)（おばけライセンス）に従います。
+同梱している画像・キャラクターデザイン・設定等のおばけ素材は、[`Obake Character License v1.2`](https://github.com/tomiya7688/Obake_Lisense/blob/main/LICENSE.md)（おばけライセンス）に従います。
 
 ## ファイル構成
 
@@ -198,7 +198,7 @@ AI用プロンプトは、新しい世界設定を作るためではなく、既
 
 ## ライセンス
 
-かどか・まるの画像、キャラクターデザイン、設定その他のおばけ素材は、[`Obake Character License v1.1`](https://github.com/tomiya7688/Obake_Lisense/blob/main/LICENSE.md) の対象です。
+かどか・まるの画像、キャラクターデザイン、設定その他のおばけ素材は、[`Obake Character License v1.2`](https://github.com/tomiya7688/Obake_Lisense/blob/main/LICENSE.md) の対象です。
 
 **ライセンスの正本は [`tomiya7688/Obake_Lisense`](https://github.com/tomiya7688/Obake_Lisense) の日本語版です。**
 
